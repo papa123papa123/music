@@ -2,7 +2,7 @@
 author: 音楽大好きおじさん
 categories:
 - その他
-date: '2025-12-03T16:14:50+09:00'
+date: '2025-12-03T16:16:11+09:00'
 description: B'z コンサート 東京ドーム 2025年12月03日最新情報！チケット入手から座席まで徹底解説｜Bz コンサート 東京ドームの詳細情報
 draft: false
 hero: featured.jpg
@@ -12,7 +12,7 @@ keywords:
 - Bz
 - コンサート
 - 東京ドーム
-lastmod: '2025-12-03T16:14:50+09:00'
+lastmod: '2025-12-03T16:16:11+09:00'
 showHero: true
 tags:
 - Bz コンサート 東京ドーム

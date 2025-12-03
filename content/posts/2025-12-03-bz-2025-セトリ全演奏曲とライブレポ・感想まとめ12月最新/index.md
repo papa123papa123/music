@@ -2,9 +2,9 @@
 author: 音楽大好きおじさん
 categories:
 - その他
-date: '2025-12-03T20:33:06+09:00'
+date: '2025-12-03T20:36:51+09:00'
 description: B'z 2025 セトリ！全演奏曲とライブレポ・感想まとめ【12月最新】｜Bz 2025 セトリの詳細情報
-draft: false
+draft: true
 hero: featured.jpg
 heroStyle: background
 keywords:
@@ -12,7 +12,7 @@ keywords:
 - Bz
 - '2025'
 - セトリ
-lastmod: '2025-12-03T20:33:06+09:00'
+lastmod: '2025-12-03T20:36:51+09:00'
 showHero: true
 tags:
 - Bz 2025 セトリ

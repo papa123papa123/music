@@ -2,7 +2,7 @@
 author: 音楽大好きおじさん
 categories:
 - その他
-date: '2025-12-03T11:05:53+09:00'
+date: '2025-12-03T11:13:10+09:00'
 description: B'z ライブ 2025：日程・会場・チケットの2025年12月最新情報｜Bz ライブ 2025の詳細情報
 draft: false
 hero: featured.jpg
@@ -12,7 +12,7 @@ keywords:
 - Bz
 - ライブ
 - '2025'
-lastmod: '2025-12-03T11:05:53+09:00'
+lastmod: '2025-12-03T11:13:10+09:00'
 showHero: true
 tags:
 - Bz ライブ 2025
